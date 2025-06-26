@@ -20,7 +20,6 @@ cd smart_health_flutter
 Ensure Flutter is installed: If you don't have Flutter installed, follow the official guide: https://flutter.dev/docs/get-started/install
 
 Get Flutter dependencies: Navigate to the smart_health_flutter directory and run:
-
 flutter pub get
 
 Set up iOS (if targeting iOS): Navigate to the ios directory inside smart_health_flutter and run:
